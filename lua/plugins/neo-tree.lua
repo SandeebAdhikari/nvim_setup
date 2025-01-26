@@ -30,7 +30,7 @@ return {
         filtered_items = {
           visible = true, -- Show hidden files and folders
           hide_dotfiles = false, -- Do not hide files starting with `.`
-          hide_gitignored = false, -- Do not hide `.gitignore`-ignored files
+          hide_gitignored = true, -- Do not hide `.gitignore`-ignored files
         },
       },
     })
