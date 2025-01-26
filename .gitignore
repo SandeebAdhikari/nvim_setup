@@ -4,6 +4,7 @@
 
 # Undo files
 *.un~
+.undodir
 
 # Backup files
 *.bak
