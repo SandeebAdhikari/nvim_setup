@@ -4,6 +4,7 @@ vim.opt.number = true
 vim.opt.relativenumber = false
 
 
+vim.g.mapleader = " "
 
 
 vim.o.mouse = 'a'
